@@ -276,7 +276,11 @@ img {
   text-align: center;
   font-size: 35px;
 }
-
+/*logo header*/
+.logoheader{
+  display: flex;
+  justify-content: center;
+}
 /* The grid container */
 .demo-1-grid-container {
   display: grid;
